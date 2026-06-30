@@ -1,0 +1,3 @@
+-keep class jcifs.** { *; }
+-dontwarn jcifs.**
+-dontwarn org.bouncycastle.**
